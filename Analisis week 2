@@ -1,0 +1,4 @@
+Dataset yang digunakan kurang lengkap, sehingga tidak semua warna bisa terdeteksi dengan tepat akurat
+Kamera Laptop juga mempengaruhi hasil objek yang terdeteksi
+tampilan Visualisasi yang ditampilkan pada layar saat mendeteksi objek yaitu dengan bounding box dengan label warna,serta terdapat niai persentasenya
+Sofware yang digunakan pada praktikum kali ini yaitu VS code, Kaggle, Github dan Python
